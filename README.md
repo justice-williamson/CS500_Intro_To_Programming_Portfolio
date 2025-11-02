@@ -54,6 +54,4 @@ Instructor access has been granted via GitHub collaborator permissions.
 
 **Repository Link:**  
 
-[]
-
-📍 **Repository Link:**    
+[https://github.com/justice-williamson/CS500_Intro_To_Programming_Portfolio] 
