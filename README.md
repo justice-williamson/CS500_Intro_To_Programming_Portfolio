@@ -1,7 +1,7 @@
 # CS500 Introduction to Programming Portfolio
 
 **Student:** Justice Williamson  
-**Course:** CS-500-11462-M01 Introduction to Programming  
+**Course:** CS-500 Introduction to Programming  
 **Instructors:** Ronak Nouri and Omar Hamdy
 
 ---
